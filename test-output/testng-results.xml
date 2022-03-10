@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23832" started-at="2022-03-10T23:40:15 IST" finished-at="2022-03-10T23:40:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23832" started-at="2022-03-10T23:40:15 IST" finished-at="2022-03-10T23:40:39 IST">
+      <class name="TestCases.FirstTestCase">
+        <test-method status="PASS" signature="init()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="init" is-config="true" duration-ms="14169" started-at="2022-03-10T23:40:15 IST" finished-at="2022-03-10T23:40:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateLogo()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="validateLogo" duration-ms="329" started-at="2022-03-10T23:40:29 IST" finished-at="2022-03-10T23:40:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="quit" is-config="true" duration-ms="770" started-at="2022-03-10T23:40:30 IST" finished-at="2022-03-10T23:40:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="init()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="init" is-config="true" duration-ms="7713" started-at="2022-03-10T23:40:31 IST" finished-at="2022-03-10T23:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateTitle()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="validateTitle" duration-ms="77" started-at="2022-03-10T23:40:38 IST" finished-at="2022-03-10T23:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:TestCases.FirstTestCase@17d0685f]" name="quit" is-config="true" duration-ms="711" started-at="2022-03-10T23:40:38 IST" finished-at="2022-03-10T23:40:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- TestCases.FirstTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
